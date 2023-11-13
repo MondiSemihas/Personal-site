@@ -1,0 +1,26 @@
+html{
+    font-size: 16px;
+}
+ul{
+    list-style: none;
+}
+.hello{
+    color:#0d6efd ;
+}
+b{
+    text-decoration: underline;
+    opacity: 90%;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+p{
+    font-size: 25px;
+}
+li{
+    font-size: 25px;
+}
